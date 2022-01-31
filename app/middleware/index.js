@@ -17,7 +17,6 @@ const userValid = function(req, res, next) {
 
 
 module.exports = {
-    validate,
     adminvalid,
     userValid
 };
